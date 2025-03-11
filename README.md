@@ -9,9 +9,7 @@ git clone https://github.com/kritijain2609/imagoai.git
 cd imagoai
 
 Install Dependencies
-Ensure Python (version 3.8 or later) and pip are installed. Then, install the required dependencies using:
-pip install -r requirements.txt
-
+Ensure Python (version 3.8 or later) and pip are installed. ]
 
 Repository Structure
 imagoai/
